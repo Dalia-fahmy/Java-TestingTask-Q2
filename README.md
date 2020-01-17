@@ -1,4 +1,4 @@
-# TestingTask-1
+# Java-TestTask-Q2
 Selenuim Framework project using Java, Maven and POM 
 ---------------------------------------------------------
 Steps to Run the tests:
