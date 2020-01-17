@@ -1,5 +1,6 @@
 # TestingTask-1
-Selenuim Framework project using Java, Maven and POM
+Selenuim Framework project using Java, Maven and POM 
+---------------------------------------------------------
 Steps to Run the tests:
 1- Install latest Java version
 2- Install maven
